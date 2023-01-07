@@ -8,10 +8,10 @@
   "scripts": {
     "test": "jest --detectOpenHandles"
   },
-  "name": "shawn",
+  "name": "yash",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "priyanshu gupta <priyanshu.202104072@tulas.edu.in>",
+  "author": "yash goyal <yash.202104022@tulas.edu.in>",
   "license": "ISC",
   "description": "",
   "devDependencies": {
